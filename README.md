@@ -37,3 +37,5 @@ Deliverables
     Restful.java files containing all web services.
     web.xml
     Screenshots: Results of each test case from the tool (cRUL, REST Console, POSTMAN, etc) of your choice. For POST and DELETE operations, show me the snapshot of the database after the operation is done. 
+
+Instruction Manual at: https://docs.google.com/document/d/1GBcvCXJoJp_R9FwouYIg_Ou2fPQ3p9II_QPiWvJfYKc/edit?usp=sharing
